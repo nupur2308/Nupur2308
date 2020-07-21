@@ -29,7 +29,7 @@ This github repo is to record all my learnings as I traverse the analytics profe
 **You can reach me on Twitter: @MessyN23 and LinkedIn: @nupurgokhale**
 
 #### Fun fact 
-I'm a huge fan of cycling, and while in NY, I biked the perimeter of Manhattan just to see how long it would take me. (I took me 3 hrs because I got lost in Harlem!) 
+I'm a huge fan of cycling, and while in NY, I biked the perimeter of Manhattan just to see how long it would take me. (I took 3ish hrs because I got lost in Harlem!) 
 
 <!--
 **Nupur2308/Nupur2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
