@@ -18,7 +18,7 @@ And now, I'm about to move to Toronto! :canada: <br />
 
 #### I'm currently learning  
 
-**Machine Learning** 
+`Machine Learning`
 
 It's my latest obsession. The resources I've been using are... 
 
@@ -28,8 +28,6 @@ It's my latest obsession. The resources I've been using are...
 This github repo is to record all my learnings as I traverse the analytics professional world. <br />
 **You can reach me on Twitter: @MessyN23 and LinkedIn: @nupurgokhale**
 
-#### Pronouns
-She/her <br /> 
 #### Fun fact 
 I'm a huge fan of cycling, and while in NY, I biked the perimeter of Manhattan just to see how long it would take me. (I took me 3 hrs because I got lost in Harlem!) 
 
