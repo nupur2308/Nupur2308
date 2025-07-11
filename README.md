@@ -26,7 +26,7 @@ It's my latest obsession. The resources I've been using are...
 <a href="https://github.com/codeforcauseorg/ML-Bootcamp-July/">An ML Bootcamp with Code for Cause</a>
 
 This github repo is to record all my learnings as I traverse the analytics professional world. <br />
-**You can reach me on Twitter: @MessyN23 and LinkedIn: @nupurgokhale**
+**You can reach me on : LinkedIn: @nupurgokhale**
 
 #### Fun fact 
 I'm a huge fan of cycling, and while in NY, I biked the perimeter of Manhattan just to see how long it would take me. (I took 3ish hrs because I got lost in Harlem!) 
